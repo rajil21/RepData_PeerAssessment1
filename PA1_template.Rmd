@@ -1,7 +1,4 @@
----
-title: "Reproducible Research: Peer Assessment 1"
----
-
+# Reproducible Research: Peer Assessment 1 
 
 
 The goal of this assignment is to do an data analysis of an individual's activities from data collected by personal activity monitoring device like smart phones.
