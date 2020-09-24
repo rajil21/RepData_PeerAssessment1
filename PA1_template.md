@@ -1,10 +1,4 @@
----
-title: "Reproducible Research: Peer Assessment 1"
-output: 
-  html_document:
-    keep_md: true
----
-
+# Reproducible Research: Peer Assessment 1
 
 The goal of this assignment is to do an data analysis of an individual's activities from data collected by personal activity monitoring device like smart phones.
 This device collects data at 5 minute intervals through out the day. The data consists of two months of data, with steps taken in 5 minute intervals each day.
